@@ -11,6 +11,7 @@ Example 1:
 Input: n = 1, k = 1
 Output: 0
 Explanation: row 1: 0
+
 Example 2:
 
 Input: n = 2, k = 1
@@ -18,6 +19,7 @@ Output: 0
 Explanation: 
 row 1: 0
 row 2: 01
+
 Example 3:
 
 Input: n = 2, k = 2
